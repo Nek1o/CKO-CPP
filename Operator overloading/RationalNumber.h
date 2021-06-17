@@ -1,6 +1,8 @@
 #pragma once
 #include <iostream>
 
+using namespace std;
+
 class RationalNumber {
 private:
 	int numerator;
@@ -16,7 +18,7 @@ public:
 		this->denominator = denominator;
 	}
 
-	// Место под ваши перегрузки
+	// ГЊГҐГ±ГІГ® ГЇГ®Г¤ ГўГ ГёГЁ ГЇГҐГ°ГҐГЈГ°ГіГ§ГЄГЁ
 
 
 };
